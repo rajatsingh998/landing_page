@@ -121,3 +121,34 @@ img.image4{
     line-height: 1.5;
     color: white;
 }
+p.text11{
+    color: #0d3ab3;
+    font-size: 35px;
+    font-weight: 700;
+    margin-left:37%;
+    margin-top: 4%;
+    font-family: Lato;
+}
+
+p.text12{
+    color: #4a4a4a;
+    letter-spacing: 1.4px;
+    margin-left:28%;
+    padding-bottom: 105px;
+    font-size: 16px;
+    padding-top: 35px;
+}
+div.card1{
+    margin-left: 20%;
+    margin-top: 1%;
+}
+div.card-text1{
+    font-family: Lato,sans-serif;
+    color: #252525;
+    font-size: 16px;
+    letter-spacing: 1.1px;
+    margin-left:0%;
+}
+div.card-pic1{
+    margin-left: 50%;
+}
